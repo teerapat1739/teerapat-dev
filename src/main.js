@@ -6,7 +6,9 @@ import 'buefy/lib/buefy.css'
 import Buefy from 'buefy'
 import VueAnime from 'vue-animejs'
 import VModal from 'vue-js-modal'
+import VueTypedJs from 'vue-typed-js'
 
+Vue.use(VueTypedJs)
 Vue.use(VModal)
 Vue.use(VueAnime)
 Vue.use(Buefy)

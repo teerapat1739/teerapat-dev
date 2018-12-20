@@ -21,6 +21,7 @@
     "vue-modaltor": "^1.2.9",
     "vue-router": "^3.0.1",
     "vue-tantan-stack": "^1.0.0",
+    "vue-typed-js": "^0.1.2",
     "vue2-flip-countdown": "^0.3.2",
     "vuex": "^3.0.1",
     "web3": "^1.0.0-beta.33"
